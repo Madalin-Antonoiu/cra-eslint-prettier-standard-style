@@ -44,7 +44,7 @@ To reproduce the contents of this repository, follow the steps below:
 5. **VSCode** configurations:  
     a. Go to `Settings` > Search for `Default Formatter` and choose `esbenp.prettier-vscode` to enable Prettier.  
     b. Also search for `Format on save` and check the box so that every time you save a file, Prettier will automatically format it for you.  
-    c. Create _`.vscode`_ folder at root level, and _`settings.json`_ inside
+    To enforce it on any machine, also create _`.vscode`_ folder at root level, and _`settings.json`_ inside
 
    ```json
    {
